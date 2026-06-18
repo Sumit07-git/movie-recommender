@@ -80,5 +80,3 @@ movie-recommender/
 ## 👨‍💻 Author
 
 **Sumit Samal**
-
-Third-Year Student | Python | Machine Learning | AI Enthusiast
